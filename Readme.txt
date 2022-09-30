@@ -1,4 +1,4 @@
-A toy project for ingredient replacement based on simple co-occurance matrix.
+A toy project for ingredient replacement based on simple co-occurence matrix.
 
 It consists of a notebook for the main code, a condas environment file and python modules used to scrap the web data.
 
